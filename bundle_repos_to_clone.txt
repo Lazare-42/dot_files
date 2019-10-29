@@ -22,6 +22,12 @@ https://github.com/garbas/vim-snipmate.git
 nerdtree
 https://github.com/scrooloose/nerdtree.git                                      
 
+NERDREE for git
+https://github.com/Xuyuanp/nerdtree-git-plugin.git
+
+NERDREE consistent over tabs
+https://github.com/jistr/vim-nerdtree-tabs.git
+
 ??
 https://github.com/scrooloose/nerdcommenter.git                                 
 
@@ -48,3 +54,4 @@ https://github.com/ajmwagar/vim-deus.git
 
  the ONE AND ONLY vimtex
 https://github.com/lervag/vimtex.git                                            
+
