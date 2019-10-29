@@ -1,0 +1,50 @@
+Happy Haskell programming on Vim, powered by ghc-mod
+https://github.com/eagletmt/ghcmod-vim.git                                      
+
+Haskell ghc-mod completion
+https://github.com/eagletmt/neco-ghc.git                                        
+
+Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
+https://github.com/ctrlpvim/ctrlp.vim.git                                       
+
+Syntastic...what else
+https://github.com/scrooloose/syntastic.git                                     
+
+This library provides some utility functions. There isn't much need to install it unless another plugin requires you to do so.
+https://github.com/tomtom/tlib_vim.git                                          
+
+Library used by plugins. Add this in your vimrc : call scriptmanagerActivate(["vim-addon-mw-utils"])
+https://github.com/MarcWeber/vim-addon-mw-utils.git                             
+
+SnipMate aims to provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips. For example, in C, typing for<tab> could be expanded to
+https://github.com/garbas/vim-snipmate.git                                      
+
+nerdtree
+https://github.com/scrooloose/nerdtree.git                                      
+
+??
+https://github.com/scrooloose/nerdcommenter.git                                 
+
+tabularize with the command :Tabularize /{pattern}
+https://github.com/godlygeek/tabular.git                                        
+
+autocompletion
+https://github.com/Shougo/deoplete.nvim.git                                     
+
+enables autocompletion bar
+https://github.com/vim-scripts/AutoComplPop.git                                 
+
+vim tab completion
+https://github.com/ervandew/supertab.git                                        
+
+gruvbox color scheme
+https://github.com/morhetz/gruvbox.git                                          
+
+rust completion, completion, etc.
+https://github.com/rust-lang/rust.vim.git                                       
+
+vim deus completion scheme
+https://github.com/ajmwagar/vim-deus.git                                        
+
+ the ONE AND ONLY vimtex
+https://github.com/lervag/vimtex.git                                            
